@@ -1,0 +1,107 @@
+body {
+    background-color: #f0f8ff;
+    max-width: 1140px;
+    margin: 0 auto;
+  }
+  
+  img {
+    width: 100%;
+  }
+  
+  h1 {
+    text-decoration: none;
+    text-align: left;
+    margin-bottom: 32px;
+    line-height: 1.2;
+    font-weight: 600;
+    font-size: 58px;
+  }
+  
+  p,
+  ol,
+  ul,
+  li {
+    font-size: 20px;
+  }
+  
+  ol li,
+  ul li {
+    margin-bottom: 15px;
+  }
+  
+  h3 {
+    font-size: 1.5em;
+  }
+  
+  .list_products {
+    font-weight: 600;
+  }
+
+  ul li {
+    list-style: none;
+    padding-left: 26px;
+  }
+
+  .fish {
+    background: url(/fish.png) left top 2px no-repeat;
+    background-size: 20px;
+  }
+
+  .zerna {
+    background: url(/zerna.png) left top 2px no-repeat;
+    background-size: 20px;
+  }
+  .milk {
+    background: url(/milk.png) left top 2px no-repeat;
+    background-size: 20px;
+  }
+  .egg {
+    background: url(/free-icon-two-eggs-17919.png) left top 2px no-repeat;
+    background-size: 20px;
+  }
+  .bob {
+    background: url(/bob.png) left top 2px no-repeat;
+    background-size: 16px;
+  }
+  .rice {
+    background: url(/rice.png) left top 2px no-repeat;
+    background-size: 16px;
+  }
+  .oil {
+    background: url(/oil.png) left top 2px no-repeat;
+    background-size: 16px;
+  }
+  .berries {
+    background: url(/berries.png) left top 2px no-repeat;
+    background-size: 16px;
+  }
+    .fruits {
+    background: url(/fruits.png) left top 2px no-repeat;
+    background-size: 16px;
+  }
+
+  .canned {
+    background: url(/canned.png) left top 2px no-repeat;
+    background-size: 16px;
+  }
+
+  .sous {
+    background: url(/sous.png) left top 2px no-repeat;
+    background-size: 16px;
+  }
+
+  .smoke {
+    background: url(/smoked.png) left top 2px no-repeat;
+    background-size: 16px;
+  }
+
+  .fried {
+    background: url(/fried.png) left top 2px no-repeat;
+    background-size: 16px;
+  }
+
+  .sweet {
+    background: url(/sweet.png) left top 2px no-repeat;
+    background-size: 16px;
+  }
+  
